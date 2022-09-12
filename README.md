@@ -4,14 +4,6 @@
 
 I made this site as a place to store notes on the things I learned in preparation to and over the course of the coding bootcamp I attend
 
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
 
 ## Installation
 
