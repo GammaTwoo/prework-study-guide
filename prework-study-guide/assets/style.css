@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: #0E2954;
+    color: white;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+h1,
+h2 {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+img {
+    display: block;
+    height: 50px;
+    width: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ul {
+    padding-left: 40px;
+    font-size: 20px;
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+  }
+
+  .card {
+    width: 80%;
+    margin: 40px auto;
+    border: 5px solid #1f6e8c;
+    box-shadow: 5px 10px #2E8A99;
+  }
