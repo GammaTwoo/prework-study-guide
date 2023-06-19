@@ -4,14 +4,6 @@
 
 A website I made for the prework of my coding bootcamp. Made as a place to study notes from said prework.
 
-## Table of Contents
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-- [Features](#features)
-
 ## Installation
 
 No installation necessary
