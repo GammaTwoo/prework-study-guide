@@ -42,7 +42,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-## Features
-
-Notes on the topics learned in the bootcamp prework, as well as a function that recommends a topic to study in the console
 
